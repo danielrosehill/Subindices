@@ -50,7 +50,7 @@ Backup related projects and scripts.
 
 Repositories related to Claude Code CLI.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Code-Projects-Index)
 
 ---
 
@@ -147,6 +147,14 @@ Various MCP related projects I'm either working on (or have worked on).
 N8N workflows shared on Github.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/N8N-Workflows-Index)
+
+---
+
+## Patches
+
+Patches, fixes, workarounds, and system administration solutions.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Patches-Repos-Index)
 
 ---
 
