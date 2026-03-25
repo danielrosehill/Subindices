@@ -94,6 +94,22 @@ Repositories concerning AI evaluations and experiments.
 
 ---
 
+## Geopolitical And OSINT
+
+OSINT, geopolitical analysis, situational awareness, and civilian preparedness in Israel.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Geopolitical-And-OSINT-Index)
+
+---
+
+## GitHub Management Tools
+
+GitHub and repository management tools, automation utilities, and workflow helpers.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/GitHub-Management-Tools-Index)
+
+---
+
 ## Github Master
 
 A repository that indexes my Github projects.
@@ -115,6 +131,14 @@ Home Assistant projects.
 Homebox related projects (home inventory system).
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Homebox-Projects-Index)
+
+---
+
+## Linux Desktop Tools
+
+Linux desktop tools, KDE/Plasma widgets, system utilities, and desktop applications.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Linux-Desktop-Tools-Index)
 
 ---
 
@@ -150,6 +174,14 @@ Various MCP related projects I'm either working on (or have worked on).
 
 ---
 
+## Networking And Infrastructure
+
+Networking, homelab infrastructure, server management, Docker, and LAN administration.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Networking-And-Infrastructure-Index)
+
+---
+
 ## N8N Workflows
 
 N8N workflows shared on Github.
@@ -179,3 +211,19 @@ Collections of user and system prompts on Github.
 Repos related to STT, ASR.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Speech-Tech-Index)
+
+---
+
+## Sustainability And Impact Data
+
+GHG emissions, ESG reporting, and environmental impact data analysis.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Sustainability-And-Impact-Data-Index)
+
+---
+
+## Text Transformation And Cleanup
+
+Text transformation, transcription cleanup, and text processing tools and prompts.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Text-Transformation-And-Cleanup-Index)
