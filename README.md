@@ -54,6 +54,30 @@ Repositories related to Claude Code CLI.
 
 ---
 
+## Claude Code Slash Commands
+
+Slash command library and index of standalone slash command repos for Claude Code.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Slash-Commands)
+
+---
+
+## Claude Code Sysadmin Workspaces
+
+Claude Code workspace templates for systems administration — servers, Proxmox, Docker, NAS, LAN management.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Code-Sysadmin-Workspaces-Index)
+
+---
+
+## Claude Code Workspace Templates
+
+Claude Code workspace templates for domain-specific projects — budgeting, health, research, writing, career planning.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Code-Workspace-Templates-Index)
+
+---
+
 ## Context Projects
 
 Projects related to context-gathering and generation for AI, including via interview approaches.
