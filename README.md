@@ -118,6 +118,14 @@ Homebox related projects (home inventory system).
 
 ---
 
+## Israel Preparedness
+
+Civilian emergency preparedness in Israel — red alert monitoring, Home Assistant integrations, shelters, and AI-assisted guidance.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Preparedness-Index)
+
+---
+
 ## Israel Projects
 
 Repositories related to Israel.
