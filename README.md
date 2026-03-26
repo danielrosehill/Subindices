@@ -238,6 +238,14 @@ Repos related to STT, ASR.
 
 ---
 
+## Voice Apps
+
+Voice typing, dictation, speech-to-text applications, and transcription MCP servers.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Voice-Apps-Index)
+
+---
+
 ## Sustainability And Impact Data
 
 GHG emissions, ESG reporting, and environmental impact data analysis.
