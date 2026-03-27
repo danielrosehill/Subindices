@@ -166,6 +166,14 @@ Homebox related projects (home inventory system).
 
 ---
 
+## Ideas
+
+Index for placeholder repos at WIP/idea-capture stage and pending time to take further!
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Ideas-Index)
+
+---
+
 ## Linux Desktop Tools
 
 Linux desktop tools, KDE/Plasma widgets, system utilities, and desktop applications.
@@ -238,6 +246,14 @@ Collections of user and system prompts on Github.
 
 ---
 
+## Project Manager
+
+Indexing file for favorites in project manager.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Project-Manager-Index)
+
+---
+
 ## Speech Tech
 
 Repos related to STT, ASR.
@@ -267,3 +283,11 @@ GHG emissions, ESG reporting, and environmental impact data analysis.
 Text transformation, transcription cleanup, and text processing tools and prompts.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Text-Transformation-And-Cleanup-Index)
+
+---
+
+## WIP
+
+Work in progress index / parking lot for development when time presents itself!
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/WIP-Index)
