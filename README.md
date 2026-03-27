@@ -30,6 +30,14 @@ Apps created.
 
 ---
 
+## Architectural Plans
+
+Project plans, blueprints, specifications, and design documents for software and hardware projects.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Architectural-Plans-Index)
+
+---
+
 ## Awesome List Repos
 
 Listing repositories I have created.
