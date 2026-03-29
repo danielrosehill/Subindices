@@ -254,6 +254,14 @@ Indexing file for favorites in project manager.
 
 ---
 
+## Speech & ASR Evaluations
+
+Comprehensive index of speech recognition and ASR evaluation studies.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Speech-And-ASR-Evaluations)
+
+---
+
 ## Speech Tech
 
 Repos related to STT, ASR.
@@ -283,6 +291,14 @@ GHG emissions, ESG reporting, and environmental impact data analysis.
 Text transformation, transcription cleanup, and text processing tools and prompts.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Text-Transformation-And-Cleanup-Index)
+
+---
+
+## Ubuntu Setup
+
+Handy Ubuntu setup guides and configuration notes.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Handy-Ubuntu-Setup)
 
 ---
 
