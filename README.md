@@ -238,6 +238,14 @@ Patches, fixes, workarounds, and system administration solutions.
 
 ---
 
+## Price Research
+
+Point-in-time pricing snapshots and cost comparisons for AI/cloud APIs and services.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Price-Research-Index)
+
+---
+
 ## Prompt Libraries
 
 Collections of user and system prompts on Github.
