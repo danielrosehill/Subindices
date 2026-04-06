@@ -150,6 +150,14 @@ The front-page index of all my Github repositories, with category views, topic b
 
 ---
 
+## Hebrew Language Projects
+
+Projects and utilities for working with the Hebrew language: translation, TTS, LLMs, fonts, calendar, and Paleo Hebrew.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Hebrew-Language-Projects-Index)
+
+---
+
 ## Home Assistant
 
 Home Assistant projects.

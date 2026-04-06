@@ -61,6 +61,11 @@
       "url": "https://github.com/danielrosehill/Github-Master-Index"
     },
     {
+      "title": "Hebrew Language Projects",
+      "description": "Projects and utilities for working with the Hebrew language: translation, TTS, LLMs, fonts, calendar, and Paleo Hebrew.",
+      "url": "https://github.com/danielrosehill/Hebrew-Language-Projects-Index"
+    },
+    {
       "title": "Home Assistant",
       "description": "Home Assistant projects.",
       "url": "https://github.com/danielrosehill/Home-Assistant-Index"
