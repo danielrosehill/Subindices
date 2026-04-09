@@ -296,6 +296,14 @@ Meta index of aggregated resource lists.
 
 ---
 
+### Research-Tools-Index
+
+Claude Code research workspaces, templates, agents, and related tooling for deep-research workflows.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Research-Tools-Index)
+
+---
+
 ### Skills-Repos-Index
 
 Index of skills repositories.

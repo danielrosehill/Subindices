@@ -96,6 +96,11 @@
       "url": "https://github.com/danielrosehill/Prompt-Libraries-Index"
     },
     {
+      "title": "Research Tools",
+      "description": "Claude Code research workspaces, templates, agents, and related tooling for deep-research workflows.",
+      "url": "https://github.com/danielrosehill/Research-Tools-Index"
+    },
+    {
       "title": "Speech Tech",
       "description": "Repos related to STT, ASR.",
       "url": "https://github.com/danielrosehill/Speech-Tech-Index"
