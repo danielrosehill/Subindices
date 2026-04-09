@@ -72,6 +72,14 @@ Index of Claude Code projects.
 
 ---
 
+### Claude-Israel
+
+Index of people and projects building with Claude (incl. Claude Code) in Israel.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Israel)
+
+---
+
 ### Claude-Code-Sysadmin-Workspaces-Index
 
 Index of Claude Code sysadmin workspaces.
