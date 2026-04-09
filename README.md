@@ -264,6 +264,14 @@ Index of networking-related projects.
 
 ---
 
+### Open-Research-Workspaces-Index
+
+Public research notebooks — living Claude Code workspaces pairing an open question with context, prompts, and iterative outputs.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Open-Research-Workspaces-Index)
+
+---
+
 ### Patches-Repos-Index
 
 Index of patches repositories.

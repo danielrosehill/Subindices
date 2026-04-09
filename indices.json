@@ -1,6 +1,11 @@
 {
   "indices": [
     {
+      "title": "Open Research Workspaces",
+      "description": "Public research notebooks — living Claude Code workspaces pairing an open question with context, prompts, and iterative outputs.",
+      "url": "https://github.com/danielrosehill/Open-Research-Workspaces-Index"
+    },
+    {
       "title": "Agents",
       "description": "AI agent related repositories.",
       "url": "https://github.com/danielrosehill/Agents-Index"
