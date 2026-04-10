@@ -152,6 +152,14 @@ Index of geopolitical and OSINT projects.
 
 ---
 
+### Geopol-Forecasts-Index
+
+Index of prediction runs from Geopol Forecaster (Snowglobe + LLM Council pipeline) with accuracy tracking.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Geopol-Forecasts-Index)
+
+---
+
 ### Github-Ideas-And-FRs
 
 GitHub ideas and feature requests.

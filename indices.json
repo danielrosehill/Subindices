@@ -61,6 +61,11 @@
       "url": "https://github.com/danielrosehill/Experiments-And-Evaluations-Index"
     },
     {
+      "title": "Geopol Forecasts",
+      "description": "Index of prediction runs from Geopol Forecaster (Snowglobe + LLM Council pipeline) with accuracy tracking.",
+      "url": "https://github.com/danielrosehill/Geopol-Forecasts-Index"
+    },
+    {
       "title": "Github Master",
       "description": "A repository that indexes my Github projects.",
       "url": "https://github.com/danielrosehill/Github-Master-Index"
