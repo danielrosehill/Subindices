@@ -320,11 +320,11 @@ Meta index of aggregated resource lists.
 
 ---
 
-### Research-Tools-Index
+### Research-Tools-And-Templates-Index
 
-Claude Code research workspaces, templates, agents, and related tooling for deep-research workflows.
+Claude Code research tools and templates — general templates, domain-specific workspaces, and use-case agents for deep-research workflows.
 
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Research-Tools-Index)
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Research-Tools-And-Templates-Index)
 
 ---
 
