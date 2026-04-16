@@ -6,6 +6,11 @@
       "url": "https://github.com/danielrosehill/Open-Research-Workspaces-Index"
     },
     {
+      "title": "Agent Assisted Purchase Research",
+      "description": "Templates, agent skills, and demos for using AI agents to drive consumer purchase research — spec-first, then product matching, then availability checks.",
+      "url": "https://github.com/danielrosehill/Agent-Assisted-Purchase-Research-Index"
+    },
+    {
       "title": "Agents",
       "description": "AI agent related repositories.",
       "url": "https://github.com/danielrosehill/Agents-Index"

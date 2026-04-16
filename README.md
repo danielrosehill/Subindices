@@ -8,6 +8,14 @@ Meta-index of Daniel Rosehill's own indexing repositories — collections of per
 
 ---
 
+### Agent-Assisted-Purchase-Research-Index
+
+Templates, agent skills, and demos for using AI agents to drive consumer purchase research — spec-first, then product matching, then availability checks.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Agent-Assisted-Purchase-Research-Index)
+
+---
+
 ### Agents-Index
 
 A periodically updated list of AI agent configurations shared on GitHub and related projects.
