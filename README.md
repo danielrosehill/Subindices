@@ -256,6 +256,14 @@ Index of MCP server ideas.
 
 ---
 
+### My-Benchmarks
+
+Index of benchmarks authored by Daniel — systematic, repeatable performance comparisons across AI models, tools, or systems. WIP placeholder.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/My-Benchmarks)
+
+---
+
 ### N8N-Workflows-Index
 
 Index of N8N workflow repositories including voice note processing, AI agent workflows, and workflow sanitization tools.

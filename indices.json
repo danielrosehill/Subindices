@@ -1,6 +1,11 @@
 {
   "indices": [
     {
+      "title": "My Benchmarks",
+      "description": "Index of benchmarks authored by Daniel — systematic, repeatable performance comparisons across AI models, tools, or systems. WIP placeholder.",
+      "url": "https://github.com/danielrosehill/My-Benchmarks"
+    },
+    {
       "title": "Open Research Workspaces",
       "description": "Public research notebooks — living Claude Code workspaces pairing an open question with context, prompts, and iterative outputs.",
       "url": "https://github.com/danielrosehill/Open-Research-Workspaces-Index"
