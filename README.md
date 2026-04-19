@@ -8,6 +8,14 @@ Meta-index of Daniel Rosehill's own indexing repositories — collections of per
 
 ---
 
+### Arch-And-Interiors-Index
+
+Curated resources on architecture and interior design — tools, repos, and experiments collected for sharing with an architect.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Arch-And-Interiors-Index)
+
+---
+
 ### Agent-Assisted-Purchase-Research-Index
 
 Templates, agent skills, and demos for using AI agents to drive consumer purchase research — spec-first, then product matching, then availability checks.

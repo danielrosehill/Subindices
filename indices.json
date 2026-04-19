@@ -1,6 +1,11 @@
 {
   "indices": [
     {
+      "title": "Arch And Interiors",
+      "description": "Curated resources on architecture and interior design — tools, repos, and experiments collected for sharing with an architect.",
+      "url": "https://github.com/danielrosehill/Arch-And-Interiors-Index"
+    },
+    {
       "title": "My Benchmarks",
       "description": "Index of benchmarks authored by Daniel — systematic, repeatable performance comparisons across AI models, tools, or systems. WIP placeholder.",
       "url": "https://github.com/danielrosehill/My-Benchmarks"
