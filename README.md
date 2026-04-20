@@ -152,6 +152,14 @@ Index of experimental projects, evaluations, proof-of-concepts, templates, patte
 
 ---
 
+### Favorite-Code-Libraries
+
+Personal index of code libraries Daniel uses and likes — curated across languages and domains, with a short note on why each one earns its place.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Favorite-Code-Libraries)
+
+---
+
 ### Feature-Ideas-And-Requests
 
 Index of feature ideas and requests.

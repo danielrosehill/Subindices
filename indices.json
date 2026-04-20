@@ -129,6 +129,11 @@
       "title": "Speech Tech",
       "description": "Repos related to STT, ASR.",
       "url": "https://github.com/danielrosehill/Speech-Tech-Index"
+    },
+    {
+      "title": "Favorite Code Libraries",
+      "description": "Personal index of code libraries Daniel uses and likes — curated across languages and domains, with a short note on why each one earns its place.",
+      "url": "https://github.com/danielrosehill/Favorite-Code-Libraries"
     }
   ]
 }
