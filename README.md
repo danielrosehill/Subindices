@@ -8,6 +8,14 @@ Meta-index of Daniel Rosehill's own indexing repositories — collections of per
 
 ---
 
+### AI-Presentation-Builders-Index
+
+Tools, agents, and assistants for generating presentations and decks with AI. Scope: open/self-hosted/agent-driven builders. Out of scope (for now): SaaS-only utilities.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Presentation-Builders-Index)
+
+---
+
 ### Arch-And-Interiors-Index
 
 Curated resources on architecture and interior design — tools, repos, and experiments collected for sharing with an architect.
