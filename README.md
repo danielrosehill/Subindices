@@ -56,6 +56,14 @@ AI resource maps.
 
 ---
 
+### AI-Safety-Projects-Index
+
+Index of repositories focused on AI safety, ethics, and responsible AI development practices.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Safety-Projects-Index)
+
+---
+
 ### Architectural-Plans-Index
 
 Project plans, blueprints, specifications, and design documents for software and hardware projects.
