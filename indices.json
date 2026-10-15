@@ -156,6 +156,11 @@
       "url": "https://github.com/danielrosehill/Hardware-Blueprints-Index"
     },
     {
+      "title": "Hugging-Face-Releases-Index",
+      "description": "Everything published on Hugging Face — models, datasets, Spaces and blog posts — indexed by theme, with each project's model, training data, demo, GitHub repo and write-up linked together.",
+      "url": "https://github.com/danielrosehill/Hugging-Face-Releases-Index"
+    },
+    {
       "title": "Home-Assistant-Index",
       "description": "Index of Home Assistant related projects.",
       "url": "https://github.com/danielrosehill/Home-Assistant-Index"

@@ -256,6 +256,14 @@ Physical builds documented well enough to order the parts and assemble them — 
 
 ---
 
+### Hugging-Face-Releases-Index
+
+Everything published on Hugging Face — models, datasets, Spaces and blog posts — indexed by theme, with each project's model, training data, demo, GitHub repo and write-up linked together.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hugging-Face-Releases-Index)
+
+---
+
 ### Home-Assistant-Index
 
 Index of Home Assistant related projects.
