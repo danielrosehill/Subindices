@@ -184,6 +184,14 @@ Index of documentation repositories and notes shared on GitHub, covering AI, con
 
 ---
 
+### English-Hebrew-Code-Switching-Index
+
+ASR fine-tunes, audio and text datasets, a Hebrew-in-Latin token classifier, Spaces and companion repos for English speech and text containing Hebrew words — Israeli and Jewish-diaspora vocabulary that stock ASR mangles.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/English-Hebrew-Code-Switching-Index)
+
+---
+
 ### Experiments-And-Evaluations-Index
 
 Index of experimental projects, evaluations, proof-of-concepts, templates, patterns, and exploratory ideas related to AI/LLM development and workflows.

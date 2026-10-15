@@ -111,6 +111,11 @@
       "url": "https://github.com/danielrosehill/Docs-And-Notes-Index"
     },
     {
+      "title": "English-Hebrew-Code-Switching-Index",
+      "description": "ASR fine-tunes, audio and text datasets, a Hebrew-in-Latin token classifier, Spaces and companion repos for English speech and text containing Hebrew words — Israeli and Jewish-diaspora vocabulary that stock ASR mangles.",
+      "url": "https://github.com/danielrosehill/English-Hebrew-Code-Switching-Index"
+    },
+    {
       "title": "Experiments-And-Evaluations-Index",
       "description": "Index of experimental projects, evaluations, proof-of-concepts, templates, patterns, and exploratory ideas related to AI/LLM development and workflows.",
       "url": "https://github.com/danielrosehill/Experiments-And-Evaluations-Index"
