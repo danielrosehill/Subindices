@@ -1,6 +1,6 @@
 # Subindices
 
-[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Index)
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here)
 
 Meta-index of Daniel Rosehill's own indexing repositories — collections of personal projects organized by theme.
 

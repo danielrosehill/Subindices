@@ -12,7 +12,7 @@ should use `Subindices`.
 | `README.md` | **Source of truth.** Human-facing list, one H3 per index repo. |
 | `indices.json` | **Generated.** Machine-readable mirror, consumed downstream. |
 
-`indices.json` is read by the master index repo — `danielrosehill/Index`,
+`indices.json` is read by the master index repo — `danielrosehill/Start-Here`,
 `scripts/sync-indexing-repos.py` — which writes it to `indexing-repos.json`
 and `private/indexing-repos.md` there and renders the "Index of Indexes"
 section of its README. Only the `url` field is actually consumed downstream;

@@ -4,7 +4,7 @@ Generate indices.json from README.md.
 
 README.md is the single source of truth for this repo. indices.json is a
 machine-readable mirror of it, consumed by the master index repo
-(danielrosehill/Index, scripts/sync-indexing-repos.py) to build its
+(danielrosehill/Start-Here, scripts/sync-indexing-repos.py) to build its
 "Index of Indexes" section.
 
 The two halves were maintained by hand and drifted badly: as of 2026-08-10
