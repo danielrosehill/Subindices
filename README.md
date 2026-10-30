@@ -208,14 +208,6 @@ Personal index of code libraries Daniel uses and likes — curated across langua
 
 ---
 
-### Feature-Ideas-And-Requests
-
-Index of feature ideas and requests.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Feature-Ideas-And-Requests)
-
----
-
 ### Geopolitical-And-OSINT-Index
 
 Index of geopolitical and OSINT projects.
@@ -229,14 +221,6 @@ Index of geopolitical and OSINT projects.
 Index of prediction runs from Geopol Forecaster (Snowglobe + LLM Council pipeline) with accuracy tracking.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Geopol-Forecasts-Index)
-
----
-
-### Github-Ideas-And-FRs
-
-GitHub ideas and feature requests.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Github-Ideas-And-FRs)
 
 ---
 
@@ -501,14 +485,6 @@ Index of apps created.
 Index of browser userscripts written for Tampermonkey, Violentmonkey and Greasemonkey.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Browser-Scripts-Index)
-
----
-
-### Development-Project-Index
-
-Combined indexer covering projects published on both GitHub and Hugging Face.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Development-Project-Index)
 
 ---
 
