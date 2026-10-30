@@ -186,6 +186,11 @@
       "url": "https://github.com/danielrosehill/Israel-Reference-Repos"
     },
     {
+      "title": "Jerusalem-Projects-Index",
+      "description": "Projects tied to Jerusalem as a place: the city, its streets, its municipal services. A sub-index of Israel-Projects-Index.",
+      "url": "https://github.com/danielrosehill/Jerusalem-Projects-Index"
+    },
+    {
       "title": "Jewish-Related-Index",
       "description": "Index of Jewish-related projects on GitHub covering AI tools, Home Assistant automations for Shabbat/Yom Tov, and Torah tech resources.",
       "url": "https://github.com/danielrosehill/Jewish-Related-Index"

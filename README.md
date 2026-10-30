@@ -4,7 +4,7 @@
 
 Meta-index of Daniel Rosehill's own indexing repositories — collections of personal projects organized by theme.
 
-**Last Updated:** August 2026
+**Last Updated:** October 2026
 
 ---
 
@@ -301,6 +301,14 @@ A comprehensive index of Israel-related repositories, datasets, and Hugging Face
 Israel-related reference material — standards, regulations, classification codes, datasets, directories and translated official guidance. Repos where the data or documented rule is the payload, not an application built on it.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israel-Reference-Repos)
+
+---
+
+### Jerusalem-Projects-Index
+
+Projects tied to Jerusalem as a place: the city, its streets, its municipal services. A sub-index of Israel-Projects-Index.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jerusalem-Projects-Index)
 
 ---
 
