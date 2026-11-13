@@ -136,14 +136,6 @@ Index of Claude Code sysadmin workspaces.
 
 ---
 
-### Claude-Mental-Health-Templates-Index
-
-Claude Code templates, plugins and workspaces for mental health work a person does on their own material — issue-bounded workspaces, therapy tracking, appointment preparation, and the portable personal context layer underneath them. Nothing indexed there assesses, scores or diagnoses.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Mental-Health-Templates-Index)
-
----
-
 ### Claude-Slash-Commands
 
 Index of Claude slash commands.
@@ -325,6 +317,14 @@ Index of MCP (Model Context Protocol) projects including completed servers, impl
 Index of MCP server ideas.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/MCP-Server-Ideas)
+
+---
+
+### Mental-Health-AI-Index
+
+AI tools on any platform (agent plugins, workspace templates, assistant configurations) for mental health work a person does on their own material: family-system mapping, issue-bounded workspaces, therapy tracking, appointment preparation, and the context layer underneath them. Nothing indexed there assesses, scores or diagnoses.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Mental-Health-AI-Index)
 
 ---
 
