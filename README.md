@@ -4,31 +4,7 @@
 
 Meta-index of Daniel Rosehill's own indexing repositories — collections of personal projects organized by theme.
 
-**Last Updated:** October 2026
-
----
-
-### AI-Presentation-Builders-Index
-
-Tools, agents, and assistants for generating presentations and decks with AI. Scope: open/self-hosted/agent-driven builders. Out of scope (for now): SaaS-only utilities.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Presentation-Builders-Index)
-
----
-
-### Arch-And-Interiors-Index
-
-Curated resources on architecture and interior design — tools, repos, and experiments collected for sharing with an architect.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Arch-And-Interiors-Index)
-
----
-
-### Agent-Reference-Workflows
-
-Repositories that each demonstrate one agentic workflow end to end on a real task — the stages that worked, the wrong turns, and where a human is still required. Kept as working context for plugin design.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Agent-Reference-Workflows)
+**Last Updated:** November 2026
 
 ---
 
@@ -37,6 +13,14 @@ Repositories that each demonstrate one agentic workflow end to end on a real tas
 Templates, agent skills, and demos for using AI agents to drive consumer purchase research — spec-first, then product matching, then availability checks.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Agent-Assisted-Purchase-Research-Index)
+
+---
+
+### Agent-Reference-Workflows
+
+Repositories that each demonstrate one agentic workflow end to end on a real task — the stages that worked, the wrong turns, and where a human is still required. Kept as working context for plugin design.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Agent-Reference-Workflows)
 
 ---
 
@@ -53,6 +37,14 @@ A periodically updated list of AI agent configurations shared on GitHub and rela
 Repositories that use AI to formulate and explore public policy — manifestos, policy papers, multi-lens deliberation runs, and the research workspaces behind them. Policy made with AI, not policy about AI.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Assisted-Policymaking-Index)
+
+---
+
+### AI-Presentation-Builders-Index
+
+Tools, agents, and assistants for generating presentations and decks with AI. Scope: open/self-hosted/agent-driven builders. Out of scope (for now): SaaS-only utilities.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Presentation-Builders-Index)
 
 ---
 
@@ -80,6 +72,22 @@ Index of repositories focused on AI safety, ethics, and responsible AI developme
 
 ---
 
+### Apps-Index
+
+Index of apps created.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Apps-Index)
+
+---
+
+### Arch-And-Interiors-Index
+
+Curated resources on architecture and interior design — tools, repos, and experiments collected for sharing with an architect.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Arch-And-Interiors-Index)
+
+---
+
 ### Architectural-Plans-Index
 
 Project plans, blueprints, specifications, and design documents for software and hardware projects.
@@ -93,6 +101,14 @@ Project plans, blueprints, specifications, and design documents for software and
 Index of backup-related projects.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Backup-Projects-Index)
+
+---
+
+### Browser-Scripts-Index
+
+Index of browser userscripts written for Tampermonkey, Violentmonkey and Greasemonkey.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Browser-Scripts-Index)
 
 ---
 
@@ -120,19 +136,19 @@ Index of Claude Code projects.
 
 ---
 
-### Claude-Israel
-
-Index of people and projects building with Claude (incl. Claude Code) in Israel.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Israel)
-
----
-
 ### Claude-Code-Sysadmin-Workspaces-Index
 
 Index of Claude Code sysadmin workspaces.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Code-Sysadmin-Workspaces-Index)
+
+---
+
+### Claude-Israel
+
+Index of people and projects building with Claude (incl. Claude Code) in Israel.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Israel)
 
 ---
 
@@ -200,19 +216,19 @@ Personal index of code libraries Daniel uses and likes — curated across langua
 
 ---
 
-### Geopolitical-And-OSINT-Index
-
-Index of geopolitical and OSINT projects.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Geopolitical-And-OSINT-Index)
-
----
-
 ### Geopol-Forecasts-Index
 
 Index of prediction runs from Geopol Forecaster (Snowglobe + LLM Council pipeline) with accuracy tracking.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Geopol-Forecasts-Index)
+
+---
+
+### Geopolitical-And-OSINT-Index
+
+Index of geopolitical and OSINT projects.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Geopolitical-And-OSINT-Index)
 
 ---
 
@@ -224,6 +240,14 @@ Index of GitHub management tools.
 
 ---
 
+### Google-Fonts-Tools-Index
+
+Index of utilities for installing and using Google Fonts, with a focus on Linux installers (CLI and GUI) and libraries.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Google-Fonts-Tools-Index)
+
+---
+
 ### Hardware-Blueprints-Index
 
 Physical builds documented well enough to order the parts and assemble them — bills of materials, sourcing, wiring and enclosure specs, firmware plans.
@@ -232,11 +256,51 @@ Physical builds documented well enough to order the parts and assemble them — 
 
 ---
 
-### Hugging-Face-Releases-Index
+### Hebrew-AI
 
-Everything published on Hugging Face — models, datasets, Spaces and blog posts — indexed by theme, with each project's model, training data, demo, GitHub repo and write-up linked together.
+Hub index for Hebrew-language AI: the people, organisations, models, datasets and benchmarks improving support for modern Hebrew, in Israel and elsewhere. Links out to the Hebrew-AI sub-indexes, each with its own scope.
 
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hugging-Face-Releases-Index)
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-AI)
+
+---
+
+### Hebrew-AI-Benchmarks
+
+Benchmarks, evaluation sets and leaderboards for AI in modern Hebrew: LLMs, speech recognition, text-to-speech, OCR, retrieval and translation. Sub-index of Hebrew-AI.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-AI-Benchmarks)
+
+---
+
+### Hebrew-AI-Community
+
+People and organisations improving support for modern Hebrew across AI tasks: research labs, non-profits, community projects, companies and individuals. Sub-index of Hebrew-AI.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-AI-Community)
+
+---
+
+### Hebrew-AI-Models
+
+Catalogue of AI models for Hebrew: LLMs, speech recognition, text-to-speech, OCR, NLP, embeddings and translation, with Hebrew-specialist models kept apart from multilingual ones. Sub-index of Hebrew-AI.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-AI-Models)
+
+---
+
+### Hebrew-Datasets
+
+Catalogue of Hebrew-language datasets: speech and audio, sentence datasets, text corpora, instruction data, translation and NLP tasks. Sub-index of Hebrew-AI.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-Datasets)
+
+---
+
+### Hebrew-Language-Projects-Index
+
+Index of projects for working with Hebrew: translation, TTS, LLMs, fonts, calendar, and more.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-Language-Projects-Index)
 
 ---
 
@@ -253,6 +317,22 @@ Index of Home Assistant related projects.
 A curated index of Homebox-related projects and tools including MCP server integration, backup GUI, and AI assistants.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Homebox-Projects-Index)
+
+---
+
+### Hugging-Face-Releases-Index
+
+Everything published on Hugging Face — models, datasets, Spaces and blog posts — indexed by theme, with each project's model, training data, demo, GitHub repo and write-up linked together.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hugging-Face-Releases-Index)
+
+---
+
+### Israel-Agent-Skills-Dev-Index
+
+Index of work-in-progress skills-development repos feeding into Israel-Agent-Skills-Dev and the Claude-Israel-Agent-Skills-Plugin.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israel-Agent-Skills-Dev-Index)
 
 ---
 
@@ -384,6 +464,14 @@ Point-in-time pricing snapshots and cost comparisons for AI/cloud APIs and servi
 
 ---
 
+### Printables-Index
+
+Index of printable reference posters — print-ready wall posters built from HTML/CSS and rendered to PDF.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Printables-Index)
+
+---
+
 ### Prompt-Libraries-Index
 
 A curated collection of prompt libraries for various LLM applications, including system prompts, user prompts, and specialized tools.
@@ -400,19 +488,19 @@ Index of repository starters, boilerplates, and templates for bootstrapping new 
 
 ---
 
-### Resources-Lists-Index
-
-Meta index of aggregated resource lists.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Resources-Lists-Index)
-
----
-
 ### Research-Tools-And-Templates-Index
 
 Claude Code research tools and templates — general templates, domain-specific workspaces, and use-case agents for deep-research workflows.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Research-Tools-And-Templates-Index)
+
+---
+
+### Resources-Lists-Index
+
+Meta index of aggregated resource lists.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Resources-Lists-Index)
 
 ---
 
@@ -469,54 +557,6 @@ Index of voice typing, dictation, and speech-to-text applications and utilities.
 Index of work-in-progress repositories at various stages of development, from early ideas and planning notes to partially built tools.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/WIP-Index)
-
----
-
-### Apps-Index
-
-Index of apps created.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Apps-Index)
-
----
-
-### Browser-Scripts-Index
-
-Index of browser userscripts written for Tampermonkey, Violentmonkey and Greasemonkey.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Browser-Scripts-Index)
-
----
-
-### Google-Fonts-Tools-Index
-
-Index of utilities for installing and using Google Fonts, with a focus on Linux installers (CLI and GUI) and libraries.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Google-Fonts-Tools-Index)
-
----
-
-### Hebrew-Language-Projects-Index
-
-Index of projects for working with Hebrew: translation, TTS, LLMs, fonts, calendar, and more.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-Language-Projects-Index)
-
----
-
-### Israel-Agent-Skills-Dev-Index
-
-Index of work-in-progress skills-development repos feeding into Israel-Agent-Skills-Dev and the Claude-Israel-Agent-Skills-Plugin.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israel-Agent-Skills-Dev-Index)
-
----
-
-### Printables-Index
-
-Index of printable reference posters — print-ready wall posters built from HTML/CSS and rendered to PDF.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Printables-Index)
 
 ---
 
