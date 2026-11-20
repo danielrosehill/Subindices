@@ -1,24 +1,14 @@
 {
   "indices": [
     {
-      "title": "AI-Presentation-Builders-Index",
-      "description": "Tools, agents, and assistants for generating presentations and decks with AI. Scope: open/self-hosted/agent-driven builders. Out of scope (for now): SaaS-only utilities.",
-      "url": "https://github.com/danielrosehill/AI-Presentation-Builders-Index"
-    },
-    {
-      "title": "Arch-And-Interiors-Index",
-      "description": "Curated resources on architecture and interior design — tools, repos, and experiments collected for sharing with an architect.",
-      "url": "https://github.com/danielrosehill/Arch-And-Interiors-Index"
+      "title": "Agent-Assisted-Purchase-Research-Index",
+      "description": "Templates, agent skills, and demos for using AI agents to drive consumer purchase research — spec-first, then product matching, then availability checks.",
+      "url": "https://github.com/danielrosehill/Agent-Assisted-Purchase-Research-Index"
     },
     {
       "title": "Agent-Reference-Workflows",
       "description": "Repositories that each demonstrate one agentic workflow end to end on a real task — the stages that worked, the wrong turns, and where a human is still required. Kept as working context for plugin design.",
       "url": "https://github.com/danielrosehill/Agent-Reference-Workflows"
-    },
-    {
-      "title": "Agent-Assisted-Purchase-Research-Index",
-      "description": "Templates, agent skills, and demos for using AI agents to drive consumer purchase research — spec-first, then product matching, then availability checks.",
-      "url": "https://github.com/danielrosehill/Agent-Assisted-Purchase-Research-Index"
     },
     {
       "title": "Agents-Index",
@@ -29,6 +19,11 @@
       "title": "AI-Assisted-Policymaking-Index",
       "description": "Repositories that use AI to formulate and explore public policy — manifestos, policy papers, multi-lens deliberation runs, and the research workspaces behind them. Policy made with AI, not policy about AI.",
       "url": "https://github.com/danielrosehill/AI-Assisted-Policymaking-Index"
+    },
+    {
+      "title": "AI-Presentation-Builders-Index",
+      "description": "Tools, agents, and assistants for generating presentations and decks with AI. Scope: open/self-hosted/agent-driven builders. Out of scope (for now): SaaS-only utilities.",
+      "url": "https://github.com/danielrosehill/AI-Presentation-Builders-Index"
     },
     {
       "title": "AI-Projects-Index",
@@ -46,6 +41,16 @@
       "url": "https://github.com/danielrosehill/AI-Safety-Projects-Index"
     },
     {
+      "title": "Apps-Index",
+      "description": "Index of apps created.",
+      "url": "https://github.com/danielrosehill/Apps-Index"
+    },
+    {
+      "title": "Arch-And-Interiors-Index",
+      "description": "Curated resources on architecture and interior design — tools, repos, and experiments collected for sharing with an architect.",
+      "url": "https://github.com/danielrosehill/Arch-And-Interiors-Index"
+    },
+    {
       "title": "Architectural-Plans-Index",
       "description": "Project plans, blueprints, specifications, and design documents for software and hardware projects.",
       "url": "https://github.com/danielrosehill/Architectural-Plans-Index"
@@ -54,6 +59,11 @@
       "title": "Backup-Projects-Index",
       "description": "Index of backup-related projects.",
       "url": "https://github.com/danielrosehill/Backup-Projects-Index"
+    },
+    {
+      "title": "Browser-Scripts-Index",
+      "description": "Index of browser userscripts written for Tampermonkey, Violentmonkey and Greasemonkey.",
+      "url": "https://github.com/danielrosehill/Browser-Scripts-Index"
     },
     {
       "title": "Bug-Reports-And-Fixes",
@@ -71,14 +81,14 @@
       "url": "https://github.com/danielrosehill/Claude-Code-Projects-Index"
     },
     {
-      "title": "Claude-Israel",
-      "description": "Index of people and projects building with Claude (incl. Claude Code) in Israel.",
-      "url": "https://github.com/danielrosehill/Claude-Israel"
-    },
-    {
       "title": "Claude-Code-Sysadmin-Workspaces-Index",
       "description": "Index of Claude Code sysadmin workspaces.",
       "url": "https://github.com/danielrosehill/Claude-Code-Sysadmin-Workspaces-Index"
+    },
+    {
+      "title": "Claude-Israel",
+      "description": "Index of people and projects building with Claude (incl. Claude Code) in Israel.",
+      "url": "https://github.com/danielrosehill/Claude-Israel"
     },
     {
       "title": "Claude-Slash-Commands",
@@ -121,14 +131,14 @@
       "url": "https://github.com/danielrosehill/Favorite-Code-Libraries"
     },
     {
-      "title": "Geopolitical-And-OSINT-Index",
-      "description": "Index of geopolitical and OSINT projects.",
-      "url": "https://github.com/danielrosehill/Geopolitical-And-OSINT-Index"
-    },
-    {
       "title": "Geopol-Forecasts-Index",
       "description": "Index of prediction runs from Geopol Forecaster (Snowglobe + LLM Council pipeline) with accuracy tracking.",
       "url": "https://github.com/danielrosehill/Geopol-Forecasts-Index"
+    },
+    {
+      "title": "Geopolitical-And-OSINT-Index",
+      "description": "Index of geopolitical and OSINT projects.",
+      "url": "https://github.com/danielrosehill/Geopolitical-And-OSINT-Index"
     },
     {
       "title": "GitHub-Management-Tools-Index",
@@ -136,14 +146,44 @@
       "url": "https://github.com/danielrosehill/GitHub-Management-Tools-Index"
     },
     {
+      "title": "Google-Fonts-Tools-Index",
+      "description": "Index of utilities for installing and using Google Fonts, with a focus on Linux installers (CLI and GUI) and libraries.",
+      "url": "https://github.com/danielrosehill/Google-Fonts-Tools-Index"
+    },
+    {
       "title": "Hardware-Blueprints-Index",
       "description": "Physical builds documented well enough to order the parts and assemble them — bills of materials, sourcing, wiring and enclosure specs, firmware plans.",
       "url": "https://github.com/danielrosehill/Hardware-Blueprints-Index"
     },
     {
-      "title": "Hugging-Face-Releases-Index",
-      "description": "Everything published on Hugging Face — models, datasets, Spaces and blog posts — indexed by theme, with each project's model, training data, demo, GitHub repo and write-up linked together.",
-      "url": "https://github.com/danielrosehill/Hugging-Face-Releases-Index"
+      "title": "Hebrew-AI",
+      "description": "Hub index for Hebrew-language AI: the people, organisations, models, datasets and benchmarks improving support for modern Hebrew, in Israel and elsewhere. Links out to the Hebrew-AI sub-indexes, each with its own scope.",
+      "url": "https://github.com/danielrosehill/Hebrew-AI"
+    },
+    {
+      "title": "Hebrew-AI-Benchmarks",
+      "description": "Benchmarks, evaluation sets and leaderboards for AI in modern Hebrew: LLMs, speech recognition, text-to-speech, OCR, retrieval and translation. Sub-index of Hebrew-AI.",
+      "url": "https://github.com/danielrosehill/Hebrew-AI-Benchmarks"
+    },
+    {
+      "title": "Hebrew-AI-Community",
+      "description": "People and organisations improving support for modern Hebrew across AI tasks: research labs, non-profits, community projects, companies and individuals. Sub-index of Hebrew-AI.",
+      "url": "https://github.com/danielrosehill/Hebrew-AI-Community"
+    },
+    {
+      "title": "Hebrew-AI-Models",
+      "description": "Catalogue of AI models for Hebrew: LLMs, speech recognition, text-to-speech, OCR, NLP, embeddings and translation, with Hebrew-specialist models kept apart from multilingual ones. Sub-index of Hebrew-AI.",
+      "url": "https://github.com/danielrosehill/Hebrew-AI-Models"
+    },
+    {
+      "title": "Hebrew-Datasets",
+      "description": "Catalogue of Hebrew-language datasets: speech and audio, sentence datasets, text corpora, instruction data, translation and NLP tasks. Sub-index of Hebrew-AI.",
+      "url": "https://github.com/danielrosehill/Hebrew-Datasets"
+    },
+    {
+      "title": "Hebrew-Language-Projects-Index",
+      "description": "Index of projects for working with Hebrew: translation, TTS, LLMs, fonts, calendar, and more.",
+      "url": "https://github.com/danielrosehill/Hebrew-Language-Projects-Index"
     },
     {
       "title": "Home-Assistant-Index",
@@ -154,6 +194,21 @@
       "title": "Homebox-Projects-Index",
       "description": "A curated index of Homebox-related projects and tools including MCP server integration, backup GUI, and AI assistants.",
       "url": "https://github.com/danielrosehill/Homebox-Projects-Index"
+    },
+    {
+      "title": "Hugging-Face-Releases-Index",
+      "description": "Everything published on Hugging Face — models, datasets, Spaces and blog posts — indexed by theme, with each project's model, training data, demo, GitHub repo and write-up linked together.",
+      "url": "https://github.com/danielrosehill/Hugging-Face-Releases-Index"
+    },
+    {
+      "title": "Ideas-Index",
+      "description": "Idea repos: concepts, proposals and specs written down before (or instead of) being built, one repo per idea.",
+      "url": "https://github.com/danielrosehill/Ideas-Index"
+    },
+    {
+      "title": "Israel-Agent-Skills-Dev-Index",
+      "description": "Index of work-in-progress skills-development repos feeding into Israel-Agent-Skills-Dev and the Claude-Israel-Agent-Skills-Plugin.",
+      "url": "https://github.com/danielrosehill/Israel-Agent-Skills-Dev-Index"
     },
     {
       "title": "Israel-Preparedness-Index",
@@ -236,6 +291,11 @@
       "url": "https://github.com/danielrosehill/Price-Research-Index"
     },
     {
+      "title": "Printables-Index",
+      "description": "Index of printable reference posters — print-ready wall posters built from HTML/CSS and rendered to PDF.",
+      "url": "https://github.com/danielrosehill/Printables-Index"
+    },
+    {
       "title": "Prompt-Libraries-Index",
       "description": "A curated collection of prompt libraries for various LLM applications, including system prompts, user prompts, and specialized tools.",
       "url": "https://github.com/danielrosehill/Prompt-Libraries-Index"
@@ -246,14 +306,14 @@
       "url": "https://github.com/danielrosehill/Repo-Starters-And-Templates-Index"
     },
     {
-      "title": "Resources-Lists-Index",
-      "description": "Meta index of aggregated resource lists.",
-      "url": "https://github.com/danielrosehill/Resources-Lists-Index"
-    },
-    {
       "title": "Research-Tools-And-Templates-Index",
       "description": "Claude Code research tools and templates — general templates, domain-specific workspaces, and use-case agents for deep-research workflows.",
       "url": "https://github.com/danielrosehill/Research-Tools-And-Templates-Index"
+    },
+    {
+      "title": "Resources-Lists-Index",
+      "description": "Meta index of aggregated resource lists.",
+      "url": "https://github.com/danielrosehill/Resources-Lists-Index"
     },
     {
       "title": "Skills-Repos-Index",
@@ -289,36 +349,6 @@
       "title": "WIP-Index",
       "description": "Index of work-in-progress repositories at various stages of development, from early ideas and planning notes to partially built tools.",
       "url": "https://github.com/danielrosehill/WIP-Index"
-    },
-    {
-      "title": "Apps-Index",
-      "description": "Index of apps created.",
-      "url": "https://github.com/danielrosehill/Apps-Index"
-    },
-    {
-      "title": "Browser-Scripts-Index",
-      "description": "Index of browser userscripts written for Tampermonkey, Violentmonkey and Greasemonkey.",
-      "url": "https://github.com/danielrosehill/Browser-Scripts-Index"
-    },
-    {
-      "title": "Google-Fonts-Tools-Index",
-      "description": "Index of utilities for installing and using Google Fonts, with a focus on Linux installers (CLI and GUI) and libraries.",
-      "url": "https://github.com/danielrosehill/Google-Fonts-Tools-Index"
-    },
-    {
-      "title": "Hebrew-Language-Projects-Index",
-      "description": "Index of projects for working with Hebrew: translation, TTS, LLMs, fonts, calendar, and more.",
-      "url": "https://github.com/danielrosehill/Hebrew-Language-Projects-Index"
-    },
-    {
-      "title": "Israel-Agent-Skills-Dev-Index",
-      "description": "Index of work-in-progress skills-development repos feeding into Israel-Agent-Skills-Dev and the Claude-Israel-Agent-Skills-Plugin.",
-      "url": "https://github.com/danielrosehill/Israel-Agent-Skills-Dev-Index"
-    },
-    {
-      "title": "Printables-Index",
-      "description": "Index of printable reference posters — print-ready wall posters built from HTML/CSS and rendered to PDF.",
-      "url": "https://github.com/danielrosehill/Printables-Index"
     }
   ]
 }

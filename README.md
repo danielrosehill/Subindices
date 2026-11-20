@@ -328,6 +328,14 @@ Everything published on Hugging Face — models, datasets, Spaces and blog posts
 
 ---
 
+### Ideas-Index
+
+Idea repos: concepts, proposals and specs written down before (or instead of) being built, one repo per idea.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Ideas-Index)
+
+---
+
 ### Israel-Agent-Skills-Dev-Index
 
 Index of work-in-progress skills-development repos feeding into Israel-Agent-Skills-Dev and the Claude-Israel-Agent-Skills-Plugin.
